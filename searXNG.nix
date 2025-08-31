@@ -16,7 +16,7 @@
     settings.server = {
     port = 9090;
     bind_address = "0.0.0.0";
-    secret_key = "29836a6431e5388aa8b3cd29310ab9a0647ad613636876cbb326d46dabc4c021";
+    secret_key = "hahah fuck you";
     };
 
     settings.enabled_plugins = [
